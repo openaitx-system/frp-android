@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=jahen&project=frp-android&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # frp-android
 
 A frp client for Android. 一个 Android 平台的 frp 客户端。
